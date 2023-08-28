@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Ma Rest API",
+      "body": "[\n  {\n    \"title\": \"Opening party\",\n    \"body\": \"Why do we use it is a long established fact that the user will be distracted\",\n    \"author\": \"yoshi\",\n    \"id\": 2\n  }\n]",
+      "author": "Nathan-Trust",
+      "id": 3
+    },
+    {
+      "title": "NEWTONS LAW",
+      "body": "ABOUT ISAAC NEWTON AND HIS LAME BRO",
+      "author": "Mario",
+      "id": 5
+    },
+    {
+      "title": "SNELLS LAW",
+      "body": "sinr =constant k\nNats law",
+      "author": "Nathan-Trust",
+      "id": 6
+    }
+  ]
+}
